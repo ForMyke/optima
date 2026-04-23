@@ -2,5 +2,6 @@
 start:
 reset:
 stop:
+ @cd transportes-backend && docker compose down
 logs:
 build:
