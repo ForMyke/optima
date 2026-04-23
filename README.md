@@ -48,5 +48,3 @@ npm run dev
 
 ```bash
 cp transportes-backend/.env.example transportes-backend/.env
-```
-```
