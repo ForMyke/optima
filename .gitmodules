@@ -1,0 +1,9 @@
+[submodule "transportes-backend"]
+	path = transportes-backend
+	url = git@github.com:saidbl/transportes-backend.git
+[submodule "frontend_optima"]
+	path = frontend_optima
+	url = git@github.com:ForMyke/frontend_optima.git
+[submodule "BaseFMPMEX"]
+	path = BaseFMPMEX
+	url = git@github.com:ForMyke/BaseFMPMEX.git
