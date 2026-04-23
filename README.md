@@ -1,4 +1,3 @@
-```markdown
 # Optima Workspace
 
 Monorepo de desarrollo local para el proyecto Optima Transportes.
